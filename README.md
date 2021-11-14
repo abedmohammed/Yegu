@@ -1,2 +1,2 @@
 # Yegu
- Highschool game project made in Unity with C#
+ Simple bullet-hell made in Unity with C# for highschool CompSci final project
